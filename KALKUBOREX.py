@@ -128,7 +128,7 @@ st.set_page_config(
 with st.container():
     center = st.columns(3)[1]
     with center:
-        st.image("", width=300)
+        st.image("https://statik.tempo.co/data/2020/01/29/id_910271/910271_720.jpg", width=300)
 st.title("Program Perhitungan Biaya Operasional Pengeboran Batubara")
 st.caption("Program by: Kelompok 7 Berpikir Komputasional K-28")
 
